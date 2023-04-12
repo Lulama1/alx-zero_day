@@ -1,2 +1,2 @@
 My first readme
-Something to update
+Something to update now
